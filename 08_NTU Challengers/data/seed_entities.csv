@@ -1,0 +1,299 @@
+id,type,name_zh,name_en
+benjamin,person,班雅明,Walter Benjamin
+berger,person,伯格,John Berger
+sontag,person,桑塔格,Susan Sontag
+barthes,person,巴特,Roland Barthes
+shore,person,蕭爾,Stephen Shore
+szarkowski,person,薩考斯基,John Szarkowski
+frank,person,法蘭克,Robert Frank
+evans,person,沃克·伊凡斯,Walker Evans
+eggleston,person,艾格斯頓,William Eggleston
+krauss,person,克勞絲,Rosalind Krauss
+sekula,person,塞庫拉,Allan Sekula
+burgin,person,柏金,Victor Burgin
+tagg,person,塔格,John Tagg
+batchen,person,巴欽,Geoffrey Batchen
+fried,person,弗雷德,Michael Fried
+kuo,person,郭力昕,Kuo Li-hsin
+work_of_art,work,機械複製時代的藝術作品,The Work of Art in the Age of Mechanical Reproduction
+short_history,work,攝影小史,A Short History of Photography
+ways_of_seeing,work,觀看的方式,Ways of Seeing
+on_photography,work,論攝影,On Photography
+regarding_pain,work,旁觀他人之痛苦,Regarding the Pain of Others
+camera_lucida,work,明室,Camera Lucida
+rhetoric_image,work,影像的修辭,Rhetoric of the Image
+nature_of_photographs,work,照片的本質,The Nature of Photographs
+photographers_eye,work,攝影師之眼,The Photographer's Eye
+the_americans,work,美國人,The Americans
+american_photographs,work,American Photographs,American Photographs
+eggleston_guide,work,艾格斯頓指南,William Eggleston's Guide
+aura,concept,靈光,aura
+mech_reproduction,concept,機械複製,mechanical reproduction
+gaze,concept,凝視,gaze
+ideology,concept,意識形態,ideology
+punctum,concept,刺點,punctum
+studium,concept,知面,studium
+that_has_been,concept,此曾在,that-has-been
+deadpan,concept,冷面美學,deadpan
+vernacular,concept,日常庶民,vernacular
+new_documents_1967,event,New Documents 展 1967,New Documents 1967
+new_topographics_1975,event,New Topographics 展 1975,New Topographics 1975
+klein,person,威廉·克萊因,William Klein
+mapplethorpe,person,梅普索普,Robert Mapplethorpe
+nadar,person,納達爾,Nadar
+arbus,person,黛安·阿巴斯,Diane Arbus
+atget,person,阿傑,Eugène Atget
+sander,person,桑德,August Sander
+blossfeldt,person,布洛斯菲爾德,Karl Blossfeldt
+friedlander,person,弗里德蘭德,Lee Friedlander
+winogrand,person,威諾格蘭德,Garry Winogrand
+weston,person,愛德華·威斯頓,Edward Weston
+stieglitz,person,史蒂格利茲,Alfred Stieglitz
+strand,person,保羅·史川德,Paul Strand
+avedon,person,阿維頓,Richard Avedon
+kertesz,person,柯特茲,André Kertész
+cartier_bresson,person,卡提耶-布列松,Henri Cartier-Bresson
+hine,person,路易斯·海因,Lewis Hine
+flusser,person,傅拉瑟,Vilém Flusser
+bourdieu,person,布迪厄,Pierre Bourdieu
+azoulay,person,阿祖萊,Ariella Azoulay
+solomon_godeau,person,索羅門-戈多,Abigail Solomon-Godeau
+rosler,person,蘿絲勒,Martha Rosler
+october,work,October 期刊,October (journal)
+artforum,work,Artforum 期刊,Artforum
+aperture_mag,work,Aperture 雜誌,Aperture (magazine)
+moma,institution,紐約現代美術館,Museum of Modern Art
+eastman,institution,喬治伊士曼博物館,George Eastman Museum
+tate,institution,泰特美術館,Tate
+met,institution,大都會藝術博物館,The Metropolitan Museum of Art
+magnum,institution,馬格南攝影通訊社,Magnum Photos
+arles,institution,阿爾勒攝影節,Rencontres d'Arles
+history_of_photography,work,History of Photography 期刊,History of Photography
+afterimage,work,Afterimage 期刊,Afterimage
+asx,work,American Suburb X,American Suburb X
+cphmag,work,Conscientious,Conscientious Photography Magazine
+bjp,work,英國攝影雜誌,British Journal of Photography
+a_small_voice,work,A Small Voice podcast,A Small Voice
+kracauer,person,克拉考爾,Siegfried Kracauer
+bazin,person,巴贊,André Bazin
+crary,person,克拉里,Jonathan Crary
+edwards_e,person,伊莉莎白·愛德華茲,Elizabeth Edwards
+campany,person,坎帕尼,David Campany
+cotton,person,夏洛特·柯頓,Charlotte Cotton
+wells,person,莉茲·威爾斯,Liz Wells
+elkins,person,艾爾金斯,James Elkins
+marien,person,瑪莉·沃納·馬里恩,Mary Warner Marien
+newhall,person,紐霍爾,Beaumont Newhall
+clarke,person,格雷姆·克拉克,Graham Clarke
+mitchell_wjt,person,米契爾,W. J. T. Mitchell
+ranciere,person,洪席耶,Jacques Rancière
+didi_huberman,person,迪迪-于貝爾曼,Georges Didi-Huberman
+debord,person,德波,Guy Debord
+baudrillard,person,布希亞,Jean Baudrillard
+dyer,person,傑夫·戴爾,Geoff Dyer
+phillips_c,person,克里斯多福·菲利普斯,Christopher Phillips
+trachtenberg,person,特拉亨伯格,Alan Trachtenberg
+daguerre,person,達蓋爾,Louis Daguerre
+niepce,person,尼埃普斯,Nicéphore Niépce
+talbot,person,塔爾博特,William Henry Fox Talbot
+bayard,person,巴耶爾,Hippolyte Bayard
+cameron_jm,person,茱莉亞·瑪格麗特·卡麥隆,Julia Margaret Cameron
+muybridge,person,麥布里奇,Eadweard Muybridge
+marey,person,馬雷,Étienne-Jules Marey
+osullivan,person,歐蘇利文,Timothy O'Sullivan
+watkins,person,沃特金斯,Carleton Watkins
+jackson_whj,person,傑克森,William Henry Jackson
+riis,person,里斯,Jacob Riis
+lartigue,person,拉蒂格,Jacques Henri Lartigue
+steichen,person,史泰欽,Edward Steichen
+kasebier,person,凱斯比爾,Gertrude Käsebier
+white_clarence,person,克拉倫斯·懷特,Clarence H. White
+coburn,person,科本,Alvin Langdon Coburn
+adams_ansel,person,安瑟·亞當斯,Ansel Adams
+cunningham,person,康寧漢,Imogen Cunningham
+modotti,person,莫多蒂,Tina Modotti
+sheeler,person,席勒,Charles Sheeler
+moholy_nagy,person,莫侯利-納吉,László Moholy-Nagy
+man_ray,person,曼·雷,Man Ray
+rodchenko,person,羅欽可,Alexander Rodchenko
+renger_patzsch,person,倫格-帕奇,Albert Renger-Patzsch
+umbo,person,溫波,Umbo
+lange,person,蘭格,Dorothea Lange
+parks,person,戈登·帕克斯,Gordon Parks
+rothstein,person,羅斯坦,Arthur Rothstein
+shahn,person,夏恩,Ben Shahn
+wolcott,person,伍爾科特,Marion Post Wolcott
+lee_russell,person,羅素·李,Russell Lee
+brassai,person,布拉塞,Brassaï
+doisneau,person,杜瓦諾,Robert Doisneau
+ronis,person,羅尼斯,Willy Ronis
+levitt,person,海倫·萊維特,Helen Levitt
+model_lisette,person,麗賽特·莫德爾,Lisette Model
+capa,person,卡帕,Robert Capa
+seymour,person,西摩,David Seymour
+rodger,person,羅傑,George Rodger
+bischof,person,比紹夫,Werner Bischof
+erwitt,person,厄威特,Elliott Erwitt
+davidson_bruce,person,布魯斯·戴維森,Bruce Davidson
+gilden,person,吉爾登,Bruce Gilden
+salgado,person,薩爾加多,Sebastião Salgado
+nachtwey,person,納赫特韋,James Nachtwey
+mccullin,person,麥卡林,Don McCullin
+smith_weugene,person,尤金·史密斯,W. Eugene Smith
+ut_nick,person,黃功吾,Nick Ut
+penn,person,佩恩,Irving Penn
+newton_helmut,person,赫爾穆特·牛頓,Helmut Newton
+bourdin,person,布爾丹,Guy Bourdin
+beaton,person,畢頓,Cecil Beaton
+meyerowitz,person,梅耶羅維茨,Joel Meyerowitz
+sternfeld,person,斯坦菲爾德,Joel Sternfeld
+adams_robert,person,羅伯特·亞當斯,Robert Adams
+baltz,person,巴爾茨,Lewis Baltz
+nixon_n,person,尼克森,Nicholas Nixon
+becher,person,貝歇夫婦,Bernd and Hilla Becher
+gursky,person,古斯基,Andreas Gursky
+struth,person,史特魯斯,Thomas Struth
+hofer,person,霍弗,Candida Höfer
+ruff,person,魯夫,Thomas Ruff
+hutte,person,許特,Axel Hütte
+ruscha,person,魯沙,Ed Ruscha
+sherman,person,辛蒂·雪曼,Cindy Sherman
+levine,person,雪莉·萊文,Sherrie Levine
+prince_r,person,理查·普林斯,Richard Prince
+kruger,person,芭芭拉·克魯格,Barbara Kruger
+wall_jeff,person,傑夫·沃爾,Jeff Wall
+demand,person,德曼,Thomas Demand
+crewdson,person,克魯森,Gregory Crewdson
+dijkstra,person,黛克斯特拉,Rineke Dijkstra
+dicorcia,person,迪科西亞,Philip-Lorca diCorcia
+goldin,person,南·戈丁,Nan Goldin
+clark_larry,person,賴瑞·克拉克,Larry Clark
+mann_sally,person,莎莉·曼,Sally Mann
+billingham,person,比林漢,Richard Billingham
+tillmans,person,提爾曼斯,Wolfgang Tillmans
+soth,person,亞歷克·索斯,Alec Soth
+hido,person,托德·希多,Todd Hido
+epstein_m,person,米奇·艾普斯坦,Mitch Epstein
+misrach,person,米斯拉奇,Richard Misrach
+gowin,person,高溫,Emmet Gowin
+maier,person,薇薇安·邁爾,Vivian Maier
+leiter,person,索爾·萊特,Saul Leiter
+callahan,person,卡拉漢,Harry Callahan
+siskind,person,西斯金,Aaron Siskind
+white_minor,person,麥諾·懷特,Minor White
+parr,person,馬丁·帕爾,Martin Parr
+webb_alex,person,亞歷士·韋伯,Alex Webb
+domon,person,土門拳,Ken Domon
+kimura_ihei,person,木村伊兵衛,Ihei Kimura
+ueda_shoji,person,植田正治,Shoji Ueda
+hamaya,person,濱谷浩,Hiroshi Hamaya
+tomatsu,person,東松照明,Shomei Tomatsu
+hosoe,person,細江英公,Eikoh Hosoe
+kawada,person,川田喜久治,Kikuji Kawada
+narahara,person,奈良原一高,Ikko Narahara
+nakahira,person,中平卓馬,Takuma Nakahira
+moriyama,person,森山大道,Daido Moriyama
+taki_koji,person,多木浩二,Koji Taki
+takanashi,person,高梨豐,Yutaka Takanashi
+araki,person,荒木經惟,Nobuyoshi Araki
+fukase,person,深瀨昌久,Masahisa Fukase
+sugimoto,person,杉本博司,Hiroshi Sugimoto
+kawauchi,person,川內倫子,Rinko Kawauchi
+ishiuchi,person,石內都,Ishiuchi Miyako
+homma,person,本間貴史,Takashi Homma
+ninagawa,person,蜷川實花,Mika Ninagawa
+lang_jingshan,person,郎靜山,Long Chin-san
+zhang_cai,person,張才,Zhang Cai
+deng_nanguang,person,鄧南光,Deng Nan-guang
+li_mingdiao,person,李鳴鵰,Li Ming-diao
+zhang_zhaotang,person,張照堂,Chang Chao-tang
+ke_xijie,person,柯錫杰,Ko Si-chi
+juan_ijong,person,阮義忠,Juan I-Jong
+guan_xiaorong,person,關曉榮,Guan Xiao-rong
+lin_boliang,person,林柏樑,Lin Bo-liang
+hou_shuzi,person,侯淑姿,Lulu Shur-tzy Hou
+ho_fan,person,何藩,Fan Ho
+koo_bohnchang,person,具本昌,Koo Bohnchang
+wu_yinxian,person,吳印咸,Wu Yinxian
+pictorialism,concept,畫意攝影,pictorialism
+straight_photography,concept,直接攝影,straight photography
+new_vision,concept,新視覺,New Vision
+new_objectivity,concept,新客觀,New Objectivity
+decisive_moment,concept,決定性瞬間,the decisive moment
+snapshot_aesthetic,concept,快照美學,snapshot aesthetic
+tableau,concept,圖景 / 舞台式,tableau
+indexicality,concept,索引性,indexicality
+spectacle,concept,奇觀,spectacle
+simulacrum,concept,擬像,simulacrum
+social_landscape,concept,社會地景,social landscape
+new_color,concept,新彩色,New Color
+typology,concept,類型學,typology
+appropriation,concept,挪用,appropriation
+concerned_photography,concept,關懷攝影,concerned photography
+are_bure_boke,concept,粗粒子、晃動、失焦,are-bure-boke
+composite_photography,concept,集錦攝影,composite photography
+documentary,concept,紀實攝影,documentary photography
+street_photography,concept,街頭攝影,street photography
+war_photography,concept,戰地攝影,war photography
+equivalents,concept,等價物,Equivalents
+family_of_man_1955,event,人類一家 展 1955,The Family of Man 1955
+pictures_1977,event,Pictures 展 1977,Pictures 1977
+mirrors_windows_1978,event,鏡與窗 展 1978,Mirrors and Windows 1978
+f64,institution,f/64 群,Group f/64
+photo_league,institution,攝影聯盟,The Photo League
+photo_secession,institution,攝影分離派（291）,Photo-Secession / 291
+fsa,institution,農業安全管理局攝影部,Farm Security Administration
+bauhaus,institution,包浩斯,Bauhaus
+dusseldorf_academy,institution,杜塞道夫藝術學院,Kunstakademie Düsseldorf
+icp,institution,國際攝影中心,International Center of Photography
+getty,institution,蓋蒂博物館,J. Paul Getty Museum
+va_museum,institution,維多利亞與亞伯特博物館,Victoria and Albert Museum
+fotomuseum,institution,溫特圖爾攝影博物館,Fotomuseum Winterthur
+paris_photo,institution,巴黎攝影博覽會,Paris Photo
+ncpi_tw,institution,國家攝影文化中心,National Center of Photography and Images
+tfam,institution,臺北市立美術館,Taipei Fine Arts Museum
+vivo_japan,institution,VIVO,VIVO
+provoke_collective,institution,Provoke 同人,Provoke collective
+vu_agency,institution,VU 圖片社,Agence VU
+ontology_bazin,work,攝影影像的本體論,The Ontology of the Photographic Image
+techniques_observer,work,觀察者的技術,Techniques of the Observer
+society_spectacle,work,景觀社會,The Society of the Spectacle
+simulacra_sim,work,擬仿物與擬像,Simulacra and Simulation
+civil_contract,work,攝影的公民契約,The Civil Contract of Photography
+ongoing_moment,work,持續進行的瞬間,The Ongoing Moment
+newhall_history_w,work,攝影史,The History of Photography
+marien_history_w,work,攝影：一部文化史,Photography: A Cultural History
+cotton_art_w,work,作為當代藝術的攝影,The Photograph as Contemporary Art
+wells_intro_w,work,攝影批判導論,Photography: A Critical Introduction
+photobook_history,work,攝影書：一部歷史,The Photobook: A History
+decisive_book,work,決定性瞬間（攝影集）,The Decisive Moment
+family_of_man_cat,work,人類一家（圖錄）,The Family of Man
+mirrors_windows_cat,work,鏡與窗（圖錄）,Mirrors and Windows
+arbus_mono,work,黛安·阿巴斯（光圈專論）,Diane Arbus: An Aperture Monograph
+ballad_goldin,work,性依存的敘事曲,The Ballad of Sexual Dependency
+immediate_family,work,親密家庭,Immediate Family
+tulsa_clark,work,塔爾薩,Tulsa
+sleeping_mississippi,work,眠於密西西比河畔,Sleeping by the Mississippi
+provoke_journal,work,Provoke,Provoke
+nakahira_plants,work,為何是植物圖鑑,Why an Illustrated Botanical Dictionary?
+moriyama_bye,work,再見攝影,Bye Bye Photography
+ravens_fukase,work,鴉,Ravens
+becher_typologies,work,工業建築類型學,Typologies of Industrial Buildings
+juan_masters,work,當代攝影大師,Contemporary Masters of Photography
+juan_seven,work,攝影美學七問,Seven Questions on the Aesthetics of Photography
+uncommon_places_w,work,Uncommon Places,Uncommon Places
+wu_lijun,person,吳莉君,Wu Li-chun
+huang_handi,person,黃翰荻,Huang Han-ti
+xu_qiling,person,許綺玲,Hsu Chi-lin
+howard_r,person,理查·霍華,Richard Howard
+zohn,person,哈利·佐恩,Harry Zohn
+kerouac,person,凱魯亞克,Jack Kerouac
+ways_of_seeing_zh,work,觀看的方式（中譯本）,Ways of Seeing (Chinese ed.)
+on_photography_zh,work,論攝影（中譯本）,On Photography (Chinese ed.)
+camera_lucida_zh,work,明室（中譯本）,Camera Lucida (Chinese ed.)
+lightaura_zh,work,迎向靈光消逝的年代,Benjamin: Essays on Photography (Chinese)
+illuminations_en,work,啟迪（Illuminations）,Illuminations
+degree_zero_w,work,攝影的零度：巴特《明室》反思,Photography Degree Zero
+burning_desire_w,work,慾望的燃燒：攝影的起源,Burning with Desire
+wos_bbc,event,觀看的方式 BBC 影集 1972,"Ways of Seeing (BBC, 1972)"
+arbus_retro_1972,event,黛安·阿巴斯回顧展 1972,Diane Arbus Retrospective 1972
